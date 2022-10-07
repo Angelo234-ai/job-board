@@ -17,12 +17,3 @@ This project is built using [Cookiecutter Django](http://cookiecutter-django.rea
 
 
 
-### Job Board Planning
-
-- model represents the Job
-- view handles users submitting form and creating a job posting/listing
-- view displays all of the jobs that are available
-- updating a job so that it's no longer available and doesn't show on search results / home page
-- users won't be able to "apply" for a position through the website but provide a contact form
-- special slot on the site for sponsored job postings
-- handle payments for sponsored job postings
