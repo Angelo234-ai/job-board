@@ -11,13 +11,17 @@ password= Nie72gpdmSAMBZ3
 
 
 
-# Running it locally
+# Running it Django locally
  
 
 1. Pull the repository
 2. Build the docker image with `docker-compose -f local.yml build`
 3. Run the docker image with `docker-compose -f local.yml up`
 
+# Running it React locally
+ 
 
+1. Pull the repository
+2. Head into the frontend folder and run `npm run start`
 
 
