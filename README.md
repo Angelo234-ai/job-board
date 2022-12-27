@@ -1,8 +1,7 @@
 # Django Job Board
 
-A website for companies to post their open job opportunities.
-
-Built using Django Rest Framework for the backend, Caprover, Docker, React and deployed on Digital ocean and Netlify.
+A website for companies to post their open job opportunities. Companies are able to create, delete, edit and promote their job postings with Stripe-handled payments.
+Built using Django Rest Framework for the backend, Caprover, Docker, React and deployed on Digital ocean and Netlify. 
 
 Login Credentials:
 
