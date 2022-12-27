@@ -1,18 +1,23 @@
 # Django Job Board
 
-Django job board built with Django and React
+A website for companies to post their open job opportunities.
 
----
+Built using Django Rest Framework for the backend, Caprover, Docker, React and deployed on Digital ocean and Netlify.
 
-This project is built using [Cookiecutter Django](http://cookiecutter-django.readthedocs.io).
+Login Credentials:
 
-### Getting Started
+user= guest1234@gmail.com
+
+password= Nie72gpdmSAMBZ3
+
+
+
+# Running it locally
+ 
 
 1. Pull the repository
-2. Fetch all details from the repo with `git fetch`
-3. Run Git checkout to the **starting-files** branch with `git checkout starting-files`
-4. Build the docker image with `docker-compose -f local.yml build`
-5. Continue with the installation procedure outlined in the [Cookiecutter Django docs](https://cookiecutter-django.readthedocs.io/en/latest/developing-locally-docker.html)
+2. Build the docker image with `docker-compose -f local.yml build`
+3. Run the docker image with `docker-compose -f local.yml up`
 
 
 
